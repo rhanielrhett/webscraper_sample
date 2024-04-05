@@ -1,0 +1,7 @@
+# databricks_config.yaml
+databricks:
+  workspace_url: YOUR_DATABRICKS_WORKSPACE_URL
+  token: YOUR_DATABRICKS_ACCESS_TOKEN
+  cluster_id: YOUR_DATABRICKS_CLUSTER_ID
+  job_name: WebScrapingJob
+  schedule: '@daily'
