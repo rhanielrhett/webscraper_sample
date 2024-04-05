@@ -6,8 +6,8 @@ This project contains a simple web scraping script written in Python.
 
 1. Clone this repository.
 2. Install dependencies using `pip install -r src/requirements.txt`.
-3. Place the URLs to be scraped in `input_data/urls.txt`.
-4. Run the scraper script locally: `python src/scraper.py`.
+3. Place the URLs to be scraped in `input_data/search.txt`.
+4. Run the scraper script locally: `python src/static_scraper.py` or `python src/dynamic_scraper.py`.
 
 ## Running with Azure Databricks Workflow
 
